@@ -1,0 +1,16 @@
+{
+  "name": "markus-component-info/FeatureComponentInfo",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Markus",
+      "role": "developer"
+    }
+  ],
+  "description": "A PHP library which implements the complete functionality of v2 of the The Currency Cloud API.",
+  "keywords": ["flynt"],
+  "license": "MIT",
+  "require": {
+    "php": ">=7.1"
+  },
+}
