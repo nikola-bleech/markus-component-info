@@ -7,7 +7,7 @@
       "role": "developer"
     }
   ],
-  "description": "A PHP library which implements the complete functionality of v2 of the The Currency Cloud API.",
+  "description": "A flynt component that shows the list of the installed components and the pages they are used on.",
   "keywords": ["flynt"],
   "license": "MIT",
   "require": {
